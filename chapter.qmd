@@ -1,17 +1,17 @@
 ---
 bibliography: references.bib
 
-title: Your chapter title
+title: Correlational and regression studies in digital education
 
 author: # one line per author
-- Your Name goes here
+- Marco Kalz
 
 abstract: |
     Your abstract goes here.
 
 keywords: # one keyword per line
-- info
-- methods
+- correlation
+- regression
 ---
 
 ## Introduction
